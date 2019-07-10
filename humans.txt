@@ -1,6 +1,9 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
-adding one line
+Leo at here adding one line
+this is stash into new branch test
+
+
 # TEAM
 
     <name> -- <role> -- <twitter>
@@ -13,3 +16,4 @@ adding one line
 
     HTML5, CSS3
     jQuery, Modernizr
+     
